@@ -6,3 +6,23 @@ Medium green: #55c57a
 Dark green: #28b485
 
 */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*header{
+    background-color: red;
+    color: white;
+    width: 400px;
+    height: 300px;
+    border: solid black;
+    margin: 100px auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+}*/
